@@ -1,0 +1,16 @@
+form{
+    display: flex; 
+    flex-direction: column;
+    gap:12px;
+    width:70%;
+    background-color: rgba(226, 215, 215, 0.768);
+    padding:12px;
+    margin:auto}
+
+input{
+    width: 100%;
+    padding:8px;
+    border-radius:12px;
+    border: none;
+    background-color: rgb(196, 195, 195);
+}

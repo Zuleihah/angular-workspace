@@ -1,0 +1,16 @@
+.example-spacer {
+    flex: 1 1 auto;
+    background-color: rgb(192, 154, 154);
+    justify-content: space-between;
+  }
+
+  a{margin:24px;}
+
+  .add{
+    margin:24px;
+  }
+
+  table {
+    width: 100%;
+  }
+  
